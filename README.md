@@ -1,7 +1,7 @@
 # Inventory Management System
 
 A web-based inventory management system built with PHP that helps businesses track and manage their inventory efficiently.
-[system_explanation.pdf](https://github.com/user-attachments/files/20612642/system_explanation.pdf)
+[system_explanation_with_screenshot.pdf](https://github.com/user-attachments/files/20612763/system_explanation_with_screenshot.pdf)
 
 ## Features
 
