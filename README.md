@@ -1,7 +1,6 @@
-# Inventory Management System
+![system_explanation_with_screenshot_page-0006](https://github.com/user-attachments/assets/1f556751-ed27-4a95-8b4a-3f1b6674c742)![system_explanation_with_screenshot_page-0006](https://github.com/user-attachments/assets/88afb91e-4018-46f0-be4e-28789d2fc9a5)# Inventory Management System
 
 A web-based inventory management system built with PHP that helps businesses track and manage their inventory efficiently.
-[system_explanation_with_screenshot.pdf](https://github.com/user-attachments/files/20612763/system_explanation_with_screenshot.pdf)
 
 ## Features
 
@@ -27,6 +26,21 @@ A web-based inventory management system built with PHP that helps businesses tra
   - Delete products
   - Track product quantities
   - Product in/out management
+
+## System Explanation
+
+![system_explanation_with_screenshot_page-0001](https://github.com/user-attachments/assets/fea5c837-e95c-451a-8e86-fd90c6b67c5d)
+![system_explanation_with_screenshot_page-0002](https://github.com/user-attachments/assets/18b9e811-889b-4dc2-af1b-c2647d38d804)
+![system_explanation_with_screenshot_page-0003](https://github.com/user-attachments/assets/170b042b-146e-41ce-978d-bb16d82210e9)
+![system_explanation_with_screenshot_page-0004](https://github.com/user-attachments/assets/95dda599-1105-4c7c-8a1f-52b19aad3fb6)
+![system_explanation_with_screenshot_page-0005](https://github.com/user-attachments/assets/cf6c314a-0519-4434-af5f-361eb6555a46)
+![system_explanation_with_screenshot_page-0006](https://github.com/user-attachments/assets/05b89942-611e-4c53-a42b-0326e904311c)
+![system_explanation_with_screenshot_page-0007](https://github.com/user-attachments/assets/60b97f71-3f22-44ee-a5d9-bc91c2fa4588)
+![system_explanation_with_screenshot_page-0008](https://github.com/user-attachments/assets/c0848617-6945-42c1-9662-ec9d23cea1a4)
+![system_explanation_with_screenshot_page-0009](https://github.com/user-attachments/assets/8df96e29-81fa-48ad-895d-8e6e0b0c3237)
+![system_explanation_with_screenshot_page-0010](https://github.com/user-attachments/assets/9b5c8d9b-c457-4ac7-b30d-f9dad5fe609d)
+![system_explanation_with_screenshot_page-0011](https://github.com/user-attachments/assets/871fdce6-d93c-4bec-9fda-07ff94377b4b)
+![system_explanation_with_screenshot_page-0012](https://github.com/user-attachments/assets/5b045d5e-e888-4490-acf0-5b8da7914765)
 
 ## Technical Requirements
 
